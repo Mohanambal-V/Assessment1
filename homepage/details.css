@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(233, 228, 228, 0.473);
+}
+button{
+    float:right;
+    background-color: tomato;
+    color: white;
+    border: none;
+    width:80px;
+    height: 30px;
+    margin-right: 20px;
+    margin-top: 0;
+    border-radius: 8px;
+}
+#title,h1{
+    margin:20px;
+}
+#title{
+    color: tomato;
+}
+h1{
+    margin-bottom: 70px;
+}
+.box{
+    width: 330px;
+    height: 320px;
+    background-color: white;
+    padding:15px;
+    /* margin-top: 30px; */
+    border-radius: 10px;
+    /* display: inline; */
+    border: 1px solid rgba(221, 221, 212, 0.233);
+    box-shadow: 20%;
+    margin: 20px;
+    padding-top: 30pxs;
+   
+   
+}
+.outlet{
+    display:inline;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+}
+.image{
+   margin-right: 20px;
+    float: right;
+    border-radius: 10px;
+}

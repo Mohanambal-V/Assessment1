@@ -1,0 +1,84 @@
+body{
+    background: url(../images/homepage.jpg);
+}
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+   
+}
+*:hover{
+    color: tomato;
+}
+nav a {
+    list-style-type: none;
+    float: right;
+    margin-top: 0;
+    /* padding-left: 20px; */
+    color: white;
+}
+nav a:hover{
+    color: tomato;
+}
+/* .image{
+    background: url(../images/homepage.jpg);
+} */
+.navbar-nav{
+    padding-left: 50px;
+    padding-right: 40px;
+    margin-left: 10%;
+   
+}
+/* .navbar-nav:hover{
+    color: orange;
+} */
+button.navbutton{
+    background-color: black;
+    color: white;
+    border: 0px solid tomato;
+    border-radius: 25px;
+    width: 140px;
+    padding:5px;
+}
+/* nav:hover{
+    color: orange;
+} */
+.navbar-brand{
+    padding-left: 20px;
+    float: left;
+   
+}
+/* .navbar-brand:hover{
+    color: orange;
+} */
+.content{
+    background-color: white;
+    display: inline;
+    padding: 7px;
+    border-radius:2px;
+    justify-content: center;
+    align-items: center;
+}
+.content span{
+    background-color: white;
+}
+#toro{
+    color: black;
+}
+#Cono{
+    color: tomato;
+}
+.content2{
+    color: white;
+}
+.pagecontent{
+   
+   /* justify-content: center; */
+   align-items: center;
+   padding: 100px;
+   padding-bottom: 130px;
+   /* font-weight: 800px; */
+}
+.content{
+    margin-bottom: 20%;
+}
